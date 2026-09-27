@@ -1,2 +1,2 @@
-# Frigate-Fox-Releases
-Frigate Fox Releases
+# FoxEye
+FoxEye releases
